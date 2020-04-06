@@ -4,6 +4,8 @@
    Author: Tanyee
    Date: 2020/4/1
    Description: https://leetcode-cn.com/problems/remove-element/
+   Status: Passed
+   Performance: 40ms and 13.6MB
 """
 from typing import List
 
