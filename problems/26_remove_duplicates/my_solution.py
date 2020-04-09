@@ -29,6 +29,7 @@ class Solution:
             if nums[i] != nums[i-1]:
                 nums[count] = nums[i]
                 count += 1
+        # print(nums)
         return count
 
 
